@@ -1,4 +1,4 @@
-## Hi, i am Bryan James Paiva dos Santos (Olá, sou o Bryan James Paiva dos Santos)
+## Bryan James Paiva dos Santos
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Bryan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
